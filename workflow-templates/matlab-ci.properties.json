@@ -1,0 +1,11 @@
+{
+    "name": "Basic MATLAB Workflow",
+    "description": "A simple workflow using MATLAB",
+    "iconName": "",
+    "categories": [
+        "MATLAB"
+    ],
+    "filePatterns": [
+        ".*\\.m$"
+    ]
+}
